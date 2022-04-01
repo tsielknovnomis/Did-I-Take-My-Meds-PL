@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="pl">
+    <body>
+      <trans-unit xml:space="preserve" id="app_name" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Did I Take My Meds?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="add" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Add</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="add_medications" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Add medications to your list</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="medication_name" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Medication name</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="description" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Description</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="select_a_time" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>select a time</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="time_picker_tag" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>time_picker</source>
+        <target state="translated">time_picker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="save" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Save</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cancel" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Cancel</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="pick_a_time" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Pick a time before saving</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fill_fields" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Fill out name before saving</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="med_saved" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Medication saved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cancelled" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>New medication cancelled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_24" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>H:mm</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_12" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>h:mma</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_medicine" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Sample Medicine</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="midnight" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>12:00AM</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_description" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>This is a sample description of a medication. It has multiple sentences and covers multiple lines.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="previous_doses" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Previous doses:</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="i_just_took_it" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>I just took it!</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="closest_dose_sample" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Closest dose: 1:00PM today</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="med_position_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>medication_position</source>
+        <target state="translated">medication_position</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="today" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Today</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="yesterday" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Yesterday</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="tomorrow" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Tomorrow</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="closest_dose_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Closest dose: %1$s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="already_took_dose" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>You already took this dose
+I hope you didn't take it again</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="date_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>MMM d, yyyy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_taken" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Time taken: %1$s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="delete" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>delete</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="are_you_sure" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Are you sure?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="medication_delete_warning" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>The medication will be permanently deleted</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="confirm" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>confirm</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="took_this_already" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>You took this already</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="edit" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Edit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="edit_cancelled" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Edit cancelled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="notifications_enabled" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Notifications enabled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="notifications_disabled" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Notifications disabled</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="channel_name" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>did_i_take_my_meds</source>
+        <target state="translated">did_i_take_my_meds</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="channel_description" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>reminder notifications</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="med_id_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>med_id</source>
+        <target state="translated">med_id</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_for_your_dose" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Time for your dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="new_medication" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>New Medication</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="medication_details" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Medication Details</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="edit_medication" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Edit Medication</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="about" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>About</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="app_description" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>v%1$s by Noah Stanford (aka CorruptedArk)
+
+Did I Take My Meds? is a FOSS app to keep track of medications
+Did I Take My Meds? is designed to help prevent a user from skipping doses and/or overdosing
+Copyright © 2021 Noah Stanford noahstandingford@gmail.com
+
+Did I Take My Meds? is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+Did I Take My Meds? is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="support_me_on_liberapay" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Support me on Liberapay</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="view_the_project_on_github" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>View the project on GitHub</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="github_link" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>https://github.com/CorruptedArk/did-i-take-my-meds</source>
+        <target state="translated">https://github.com/CorruptedArk/did-i-take-my-meds</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="liberapay_link" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>https://liberapay.com/CorruptedArk</source>
+        <target state="translated">https://liberapay.com/CorruptedArk</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="play_release" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>playRelease</source>
+        <target state="translated">playRelease</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sorry" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Sorry!</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="okay" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Okay</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="cannot_donate_explanation" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Google doesn't allow developers to place donation links in apps to support themselves if they are not tax exempt charities. If you still want to support me, you can find CorruptedArk on Liberapay in a separate browser. My GitHub repository is a good place to start.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="last_version_used_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>last_version_used</source>
+        <target state="translated">last_version_used</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="add_another_dose" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Add another dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="taken_as_needed" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Taken as needed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="hello_blank_fragment" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Hello blank fragment</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="select_a_start_date" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Start date</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_between_doses" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Time between doses:</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="days" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Day(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="weeks" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Week(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="months" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Month(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="years" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Year(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="schedule_dose" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Schedule dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="schedule_picker_tag" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>schedule_picker</source>
+        <target state="translated">schedule_picker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="date_picker_tag" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>date_picker</source>
+        <target state="translated">date_picker</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="schedule_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>%1$s
+Starts %2$s
+Repeats every
+%3$d day(s), %4$d week(s),
+%5$d month(s), %6$d year(s)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="utc" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>UTC</source>
+        <target state="translated">UTC</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fill_out_all_schedules" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Fill out all schedules before saving</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="fill_out_schedule" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Fill out schedule before confirming</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="next_dose_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Next dose: %1$s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="taken" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Taken</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="not_taken" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Not taken</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sort" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Sort</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="sort_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Sort</source>
+        <target state="translated">Sort</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="restore_database" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Restore database</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="back_up_database" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Back up database</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="database_is_invalid" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Database is invalid</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="database_restored" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Database restored</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="took_it" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Took it</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="app_name_short" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>DITMM?</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="remind_in_15" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Remind in 15 minutes</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_record_delete_warning" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>The dose record will be permanently deleted.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="record_delete_hint" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>(Long click a record to delete it)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_since_dose_sample" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Approximately 0 day(s), 0 hour(s), and 0 minute(s) since last taken dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="time_since_dose_template" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Approximately %1$d day(s), %2$d hour(s), and %3$d minute(s) since last taken dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="require_photo_proof" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Require photo proof</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="image_path" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>images</source>
+        <target state="translated">images</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="file_provider" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>dev.corruptedark.diditakemymeds.fileprovider</source>
+        <target state="translated">dev.corruptedark.diditakemymeds.fileprovider</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_and_proof_saved" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Dose and proof saved</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="failed_to_get_proof" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Failed to get proof</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="dose_time_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>dose_time</source>
+        <target state="translated">dose_time</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="no_image_available" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>No image available</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="temp_dir" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>tmp</source>
+        <target state="translated">tmp</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="record_detail_hint" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>(Tap a record to view details)</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="time_taken_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>time_taken</source>
+        <target state="translated">time_taken</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="take_med_key" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>take_med</source>
+        <target state="translated">take_med</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="back_up_successful" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Back up successful</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="back_up_failed" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Back up failed</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_details" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Dose Details</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="medication_active" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Medication active</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="inactive" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Inactive</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="medication_type" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Medication Type</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="undefined" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Undefined</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="type_label_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Type: %1$s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_type_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Type: Undefined</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="rx_number_hint" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Rx #</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="rx_number_label_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Rx #: %1$s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_rx_number_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Rx #: Undefined</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="pharmacy" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Pharmacy</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="pharmacy_label_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Pharmacy: %1$s</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_pharmacy_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Pharmacy: Undefined</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_unit" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Dose Unit</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_amount" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Dose Amount</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_amount_label_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>%1$s%2$s per dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_dose_amount_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>5mg per dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="remaining_doses" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Remaining Doses</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="sample_remaining_doses_label" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>10 remaining doses</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="remaining_doses_label_format" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>%1$d remaining doses</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="no_remaining_doses_message" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>There are no doses remaining
+If this is wrong, update the remaining doses by editing the medication</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="take_with_food" weblate-flags="ignore-max-length, ignore-max-size, java-format"><source>Take with food</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="translation_credits" weblate-flags="java-format"><source>Brazilian Portuguese translations by mezysinc on GitHub, lnux-usr on GitHub, and Card151915 on Weblate
+
+German translations by jpameli on GitHub
+
+French translations by Edanas on Weblate
+
+Hebrew translations by Yaron on Weblate
+
+Chinese Simplified translations by luxu on Weblate
+
+Spanish translations by sguinetti on Weblate, caos30 on Weblate, and nzgha on Weblate
+
+Catalan translations by caos30 on Weblate
+
+Turkish translation by Lion on Weblate
+
+Bug fix by johannes87 on GitHub
+
+</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="app_widget_description" weblate-flags="java-format"><source>A widget that displays a single medication, the time since the last taken dose, and a button to submit a taken dose</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="choose_a_medication" weblate-flags="java-format"><source>Choose A Medication</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="dose_update_warning" weblate-flags="java-format"><source>You will update the taken time of this dose and delete the associated proof image if it exists.</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="birth_control_schedule" weblate-flags="java-format"><source>Birth control schedule</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="_21_7" weblate-flags="java-format"><source>21 + 7</source>
+        <target></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="_63_7" weblate-flags="java-format"><source>63 + 7</source>
+        <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
