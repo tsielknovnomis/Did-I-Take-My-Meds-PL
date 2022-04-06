@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Week(s)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220406T084858Z" creationid="Del" creationdate="20220406T084858Z">
+        <seg>Tyg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>date_picker</seg>
       </tuv>
       <tuv lang="pl-PL">
