@@ -14,6 +14,30 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add medications to your list</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082654Z" creationid="SvK" creationdate="20220406T082654Z">
+        <seg>Dodaj leki do listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082707Z" creationid="SvK" creationdate="20220406T082707Z">
+        <seg>Opis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medication name</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082523Z" creationid="SvK" creationdate="20220406T082523Z">
+        <seg>Nazwa leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="pl-PL">
