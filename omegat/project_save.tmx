@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220406T085502Z" creationid="48606" creationdate="20220406T085502Z">
+        <seg>Zapisz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="pl-PL">
