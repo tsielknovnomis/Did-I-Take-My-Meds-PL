@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>%1$s
+Starts %2$s
+Repeats every
+%3$d day(s), %4$d week(s),
+%5$d month(s), %6$d year(s)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062935Z" creationid="Del" creationdate="20220409T062935Z">
+        <seg>%1$s
+Rozpoczyna się %2$s
+Powtarza się co
+%3$d dzień/dni, %4$d tyg.
+%5$d miesiąc(e), %6$d rok/lata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220405T171003Z" creationid="SvK" creationdate="20220405T171003Z">
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082654Z" creationid="SvK" creationdate="20220406T082654Z">
         <seg>Dodaj leki do listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Day(s)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062819Z" creationid="Del" creationdate="20220409T062819Z">
+        <seg>Dzień/dni</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Month(s)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062825Z" creationid="Del" creationdate="20220409T062825Z">
+        <seg>Miesiąc(e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>My GitHub repository is a good place to start.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062649Z" creationid="Del" creationdate="20220409T062649Z">
@@ -90,6 +122,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220406T085502Z" creationid="48606" creationdate="20220406T085502Z">
         <seg>Zapisz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Schedule dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062843Z" creationid="Del" creationdate="20220409T062843Z">
+        <seg>Zaplanuj dawkę</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Time between doses:</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062809Z" creationid="Del" creationdate="20220409T062809Z">
+        <seg>Odstęp między dawkami:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>UTC</seg>
       </tuv>
       <tuv lang="pl-PL">
@@ -138,6 +186,14 @@
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220406T084858Z" creationid="Del" creationdate="20220406T084858Z">
         <seg>Tyg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Year(s)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062832Z" creationid="Del" creationdate="20220409T062832Z">
+        <seg>Rok/lata</seg>
       </tuv>
     </tu>
     <tu>
