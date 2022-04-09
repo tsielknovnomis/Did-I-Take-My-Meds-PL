@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Add another dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062700Z" creationid="Del" creationdate="20220409T062700Z">
+        <seg>Dodaj kolejną dawkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add medications to your list</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082654Z" creationid="SvK" creationdate="20220406T082654Z">
@@ -30,10 +38,50 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Google doesn't allow developers to place donation links in apps to support themselves if they are not tax exempt charities.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062542Z" creationid="Del" creationdate="20220409T062542Z">
+        <seg>Google nie zezwala programistom na umieszczanie w aplikacjach linków do darowizn w celu wspierania siebie, jeśli nie są to organizacje charytatywne zwolnione z podatku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Hello blank fragment</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062742Z" creationid="Del" creationdate="20220409T062742Z">
+        <seg>Witaj pusty fragmencie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If you still want to support me, you can find CorruptedArk on Liberapay in a separate browser.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062632Z" creationid="Del" creationdate="20220409T062632Z">
+        <seg>Jeśli nadal chcesz mnie wesprzeć, możesz wyszukać CorruptedArk na Liberapay w osobnej przeglądarce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medication name</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082523Z" creationid="SvK" creationdate="20220406T082523Z">
         <seg>Nazwa leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>My GitHub repository is a good place to start.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062649Z" creationid="Del" creationdate="20220409T062649Z">
+        <seg>Moje repozytorium na GitHub to dobre miejsce na początek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Okay</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062523Z" creationid="Del" creationdate="20220409T062523Z">
+        <seg>Ok</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Sorry!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062520Z" creationid="Del" creationdate="20220409T062520Z">
+        <seg>Przepraszam!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sort</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>Sort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Start date</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062756Z" creationid="Del" creationdate="20220409T062756Z">
+        <seg>Data rozpoczęcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Taken as needed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062733Z" creationid="Del" creationdate="20220409T062733Z">
+        <seg>Przyjmowana w razie potrzeby</seg>
       </tuv>
     </tu>
     <tu>
