@@ -214,6 +214,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Did I Take My Meds?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080314Z" creationid="48606" creationdate="20220420T080314Z">
+        <seg>Czy przyjąłem leki?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dose Amount</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T075744Z" creationid="student" creationdate="20220420T075744Z">
@@ -282,6 +290,14 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062632Z" creationid="Del" creationdate="20220409T062632Z">
         <seg>Jeśli nadal chcesz mnie wesprzeć, możesz wyszukać CorruptedArk na Liberapay w osobnej przeglądarce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>It has multiple sentences and covers multiple lines.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080450Z" creationid="48606" creationdate="20220420T080450Z">
+        <seg>Składa się z wielu zdań i obejmuje wiele wierszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -531,6 +547,14 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T080242Z" creationid="student" creationdate="20220420T080242Z">
         <seg>Brak pozostałych dawek. Jeśli to jest błąd, zaktualizuj pozostałe dawki poprzez edytowanie leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>This is a sample description of a medication.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080407Z" creationid="48606" creationdate="20220420T080407Z">
+        <seg>Oto przykładowy opis leku.</seg>
       </tuv>
     </tu>
     <tu>
