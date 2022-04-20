@@ -278,6 +278,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dose Details</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084001Z" creationid="student" creationdate="20220420T084001Z">
+        <seg>Szczegóły dawki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Dose Unit</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T075739Z" creationid="student" creationdate="20220420T075739Z">
@@ -366,6 +374,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Inactive</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084030Z" creationid="student" creationdate="20220420T084030Z">
+        <seg>Nieaktywne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>It has multiple sentences and covers multiple lines.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T080450Z" creationid="48606" creationdate="20220420T080450Z">
@@ -378,6 +394,22 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075637Z" creationid="konstancja" creationdate="20220420T075637Z">
         <seg>Opis leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medication Type</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084041Z" creationid="student" creationdate="20220420T084041Z">
+        <seg>Typ leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Medication active</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084022Z" creationid="student" creationdate="20220420T084022Z">
+        <seg>Leczenie zapisano</seg>
       </tuv>
     </tu>
     <tu>
@@ -703,10 +735,34 @@ If this is wrong, update the remaining doses by editing the medication</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Type: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084045Z" creationid="student" creationdate="20220420T084045Z">
+        <seg>Typ: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Type: Undefined</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084052Z" creationid="student" creationdate="20220420T084052Z">
+        <seg>Typ: nieokreślony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>UTC</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>UTC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Undefined</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T084043Z" creationid="student" creationdate="20220420T084043Z">
+        <seg>Nieokreślony</seg>
       </tuv>
     </tu>
     <tu>
