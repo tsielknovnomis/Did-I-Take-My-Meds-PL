@@ -134,6 +134,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084909Z" creationid="Magda_B" creationdate="20220420T084909Z">
+        <seg>Czy napewno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Back up database</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081202Z" creationid="student" creationdate="20220420T081202Z">
@@ -663,6 +671,14 @@ If this is wrong, update the remaining doses by editing the medication</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Time taken: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084844Z" creationid="Magda_B" creationdate="20220420T084844Z">
+        <seg>Czas zażycia: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Today</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084248Z" creationid="Magda_B" creationdate="20220420T084248Z">
@@ -749,6 +765,14 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>date_picker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>delete</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084855Z" creationid="Magda_B" creationdate="20220420T084855Z">
+        <seg>usuń</seg>
       </tuv>
     </tu>
     <tu>
