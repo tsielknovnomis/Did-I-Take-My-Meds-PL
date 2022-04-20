@@ -22,6 +22,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>12:00AM</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080214Z" creationid="48606" creationdate="20220420T080214Z">
+        <seg>12:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Add</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220405T171003Z" creationid="SvK" creationdate="20220405T171003Z">
@@ -70,6 +78,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fill out name before saving</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075943Z" creationid="48606" creationdate="20220420T075943Z">
+        <seg>Uzupełnij godzinę przed zapisaniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Google doesn't allow developers to place donation links in apps to support themselves if they are not tax exempt charities.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062542Z" creationid="Del" creationdate="20220409T062542Z">
@@ -110,6 +126,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medication saved</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080054Z" creationid="48606" creationdate="20220420T080054Z">
+        <seg>Leczenie zapisano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Month(s)</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062825Z" creationid="Del" creationdate="20220409T062825Z">
@@ -134,6 +158,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New medication cancelled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080143Z" creationid="48606" creationdate="20220420T080143Z">
+        <seg>Anulowanie nowego leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Okay</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062523Z" creationid="Del" creationdate="20220409T062523Z">
@@ -154,6 +186,14 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075422Z" creationid="konstancja" creationdate="20220420T075422Z">
         <seg>Poprzednia dawka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Sample Medicine</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080209Z" creationid="48606" creationdate="20220420T080209Z">
+        <seg>Przykładowe leki</seg>
       </tuv>
     </tu>
     <tu>
