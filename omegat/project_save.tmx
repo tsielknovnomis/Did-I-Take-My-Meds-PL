@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -86,6 +86,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Medication Details</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075637Z" creationid="konstancja" creationdate="20220420T075637Z">
+        <seg>Opis leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Medication name</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082523Z" creationid="SvK" creationdate="20220406T082523Z">
@@ -110,10 +118,26 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>New Medication</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075629Z" creationid="konstancja" creationdate="20220420T075629Z">
+        <seg>Nowy lek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Okay</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062523Z" creationid="Del" creationdate="20220409T062523Z">
         <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Previous doses:</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075422Z" creationid="konstancja" creationdate="20220420T075422Z">
+        <seg>Poprzednia dawka:</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +194,14 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062809Z" creationid="Del" creationdate="20220409T062809Z">
         <seg>Odstęp między dawkami:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Time for your dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075622Z" creationid="konstancja" creationdate="20220420T075622Z">
+        <seg>Pora na dawkę</seg>
       </tuv>
     </tu>
     <tu>
