@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -182,10 +182,26 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Fill out all schedules before saving</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080113Z" creationid="student" creationdate="20220420T080113Z">
+        <seg>Wypełnij wszystkie harmonogramy przed zapisaniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Fill out name before saving</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T075943Z" creationid="48606" creationdate="20220420T075943Z">
         <seg>Uzupełnij godzinę przed zapisaniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Fill out schedule before confirming</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080122Z" creationid="student" creationdate="20220420T080122Z">
+        <seg>Wypełnij harmonogram przed potwierdzeniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +282,14 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T080143Z" creationid="48606" creationdate="20220420T080143Z">
         <seg>Anulowanie nowego leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Next dose: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081140Z" creationid="student" creationdate="20220420T081140Z">
+        <seg>Następna dawka: %1$s</seg>
       </tuv>
     </tu>
     <tu>
