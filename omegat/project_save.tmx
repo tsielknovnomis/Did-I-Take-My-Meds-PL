@@ -727,6 +727,16 @@ If this is wrong, update the remaining doses by editing the medication</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>You already took this dose
+I hope you didn't take it again</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084722Z" creationid="Magda_B" creationdate="20220420T084722Z">
+        <seg>Dawka została już zazyta
+Mam nadzieję, że nie została zażyta ponownie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>You will update the taken time of this dose and delete the associated proof image if it exists.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T080823Z" creationid="student" creationdate="20220420T080823Z">
