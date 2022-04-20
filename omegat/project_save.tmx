@@ -72,8 +72,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>A widget that displays a single medication, the time since the last taken dose, and a button to submit a taken dose</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T080737Z" creationid="student" creationdate="20220420T080737Z">
-        <seg>Widżet pokazuje pojedynczy lek, czas od ostatniej przyjętek dawki i przycisk do zatwierdzania przyjętej dawki</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T082102Z" creationid="student" creationdate="20220420T080737Z">
+        <seg>Widżet pokazuje pojedynczy lek, czas od ostatniej przyjętej dawki i przycisk do zatwierdzania przyjętej dawki</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +162,14 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T080542Z" creationid="student" creationdate="20220420T080542Z">
         <seg>Naprawa błędów johannes87 w GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Brazilian Portuguese translations by mezysinc on GitHub, lnux-usr on GitHub, and Card151915 on Weblate \n \nGerman translations by jpameli on GitHub \n \nFrench translations by Edanas on Weblate \n \nHebrew translations by Yaron on Weblate \n \nChinese Simplified translations by luxu on Weblate \n \nSpanish translations by sguinetti on Weblate, caos30 on Weblate, and nzgha on Weblate \n \nCatalan translations by caos30 on Weblate \n \nTurkish translation by Lion on Weblate \n \nBug fix by johannes87 on GitHub \n \n</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T082034Z" creationid="student" creationdate="20220420T082034Z">
+        <seg>Brazylijsko-portugalskie tłumaczenia mezysinc na GitHub, Inux-usr na GitHub i Card151915 na Weblate \n n\Niemieckie tłumaczenia jpameli na GitHub \n \nFrancuskie tłumaczenia Edanasa na Weblate \n \nHebrajskie tłumaczenia Yarona na Weblate \n \nUproszczone chińskie tłumaczenia luxu na Weblate \n \nHiszpańskie tłumaczenia sguinetti na Weblate, caos30 na Weblate i nzgha na Weblate \n \nKatalońskie tłumaczenia caos30 na Weblate \n \nTureckie tłumaczenia Lion na Weblate \n \nUsuwanie błędów johannes87 na GitHub \n \n </seg>
       </tuv>
     </tu>
     <tu>
