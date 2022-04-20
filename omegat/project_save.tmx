@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -222,6 +222,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Closest dose: 1:00PM today</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090434Z" creationid="Magda_B" creationdate="20220420T090434Z">
+        <seg>Nadchodząca dawka: 13:00 dziś</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>DITMM?</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081209Z" creationid="student" creationdate="20220420T081209Z">
@@ -302,10 +310,26 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T085038Z" creationid="Magda_B" creationdate="20220420T085038Z">
+        <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Edit Medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075922Z" creationid="konstancja" creationdate="20220420T075922Z">
         <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Edit cancelled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T085059Z" creationid="Magda_B" creationdate="20220420T085059Z">
+        <seg>Edycja anulowana</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +510,22 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Notifications disabled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090245Z" creationid="Magda_B" creationdate="20220420T090245Z">
+        <seg>Powiadomienia aulowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Notifications enabled</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090228Z" creationid="Magda_B" creationdate="20220420T090228Z">
+        <seg>Powiadomienia aktywowane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Okay</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062523Z" creationid="Del" creationdate="20220409T062523Z">
@@ -662,6 +702,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>The medication will be permanently deleted</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084958Z" creationid="Magda_B" creationdate="20220420T084958Z">
+        <seg>Lek zostanie trwale usunięty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>There are no doses remaining
 If this is wrong, update the remaining doses by editing the medication</seg>
       </tuv>
@@ -809,10 +857,26 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>You took this already</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T085033Z" creationid="Magda_B" creationdate="20220420T085033Z">
+        <seg>Dawka została uz zażyta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>You will update the taken time of this dose and delete the associated proof image if it exists.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T080823Z" creationid="student" creationdate="20220420T080823Z">
         <seg>Zaktualizujesz czas przyjętej dawki i usuniesz połączone z nią obrazy, jeśli istnieją.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>confirm</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T085004Z" creationid="Magda_B" creationdate="20220420T085004Z">
+        <seg>potwierdź</seg>
       </tuv>
     </tu>
     <tu>
@@ -909,6 +973,14 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>playRelease</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>reminder notifications</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090316Z" creationid="Magda_B" creationdate="20220420T090316Z">
+        <seg>Przypomnienia</seg>
       </tuv>
     </tu>
     <tu>
