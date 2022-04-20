@@ -46,6 +46,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>(Tap a record to view details)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083854Z" creationid="student" creationdate="20220420T083854Z">
+        <seg>(Przytrzymaj aby usunąć)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>10 remaining doses</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T075817Z" creationid="student" creationdate="20220420T075817Z">
@@ -72,8 +80,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>A widget that displays a single medication, the time since the last taken dose, and a button to submit a taken dose</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T082102Z" creationid="student" creationdate="20220420T080737Z">
-        <seg>Widżet pokazuje pojedynczy lek, czas od ostatniej przyjętej dawki i przycisk do zatwierdzania przyjętej dawki</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083654Z" creationid="student" creationdate="20220420T080737Z">
+        <seg>Widżet pokazuje pojedynczy lek, czas od ostatniej dawki i przycisk do zatwierdzania przyjętej dawki</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +138,22 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081202Z" creationid="student" creationdate="20220420T081202Z">
         <seg>Zapisz kopię zapasową bazy danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Back up failed</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083957Z" creationid="student" creationdate="20220420T083957Z">
+        <seg>Nie udało się utworzyć kopii zapasowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Back up successful</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083909Z" creationid="student" creationdate="20220420T083909Z">
+        <seg>Pomyślnie utworzono kopię zapasową</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +278,26 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Dose and proof saved</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083800Z" creationid="student" creationdate="20220420T083800Z">
+        <seg>Zapisano dawkę i zdjęcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Edit Medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075922Z" creationid="konstancja" creationdate="20220420T075922Z">
         <seg>Edytuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Failed to get proof</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083808Z" creationid="student" creationdate="20220420T083808Z">
+        <seg>Nie udało się załadować zdjęcia</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +418,14 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081140Z" creationid="student" creationdate="20220420T081140Z">
         <seg>Następna dawka: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>No image available</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T083817Z" creationid="student" creationdate="20220420T083817Z">
+        <seg>Zdjęcie jest niedostępne</seg>
       </tuv>
     </tu>
     <tu>
