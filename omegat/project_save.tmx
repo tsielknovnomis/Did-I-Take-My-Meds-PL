@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082654Z" creationid="SvK" creationdate="20220406T082654Z">
         <seg>Dodaj leki do listy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075814Z" creationid="48606" creationdate="20220420T075814Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +138,14 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062523Z" creationid="Del" creationdate="20220409T062523Z">
         <seg>Ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pick a time before saving</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075916Z" creationid="48606" creationdate="20220420T075916Z">
+        <seg>Ustaw godzinę przed zapisaniem</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +342,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>select a time</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075732Z" creationid="48606" creationdate="20220420T075732Z">
+        <seg>wybierz godzinę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>take_med</seg>
       </tuv>
       <tuv lang="pl-PL">
@@ -336,8 +360,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>time_picker</seg>
       </tuv>
-      <tuv lang="pl-PL">
-        <seg>time_picker</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075806Z">
+        <seg>wybór_czasu</seg>
       </tuv>
     </tu>
     <tu>
