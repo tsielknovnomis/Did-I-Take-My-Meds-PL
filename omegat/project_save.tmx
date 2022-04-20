@@ -352,8 +352,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Fill out name before saving</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075943Z" creationid="48606" creationdate="20220420T075943Z">
-        <seg>Uzupełnij godzinę przed zapisaniem</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T090320Z" creationid="48606" creationdate="20220420T075943Z">
+        <seg>Uzupełnij nazwę leku przed zapisaniem</seg>
       </tuv>
     </tu>
     <tu>
