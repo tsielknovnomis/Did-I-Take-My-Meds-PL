@@ -455,30 +455,6 @@ If this is wrong, update the remaining doses by editing the medication</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>is a FOSS app to keep track of medications
-Did I Take My Meds?</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T080322Z" creationid="konstancja" creationdate="20220420T080322Z">
-        <seg>To ogólnodostępna aplikacja, która pomaga w pilnowaniu przyjmowanych leków
-Did I Take My Meds?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>is designed to help prevent a user from skipping doses and/or overdosing
-Copyright © 2021 Noah Stanford noahstandingford@gmail.com
-
-Did I Take My Meds?</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T080505Z" creationid="konstancja" creationdate="20220420T080352Z">
-        <seg>zaprojektowano ją by unikać pomijania dawek lub przedawkowania
-Copyright © 2021 Noah Stanford noahstandingford@gmail.com
-
-Did I Take My Meds?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>last_version_used</seg>
       </tuv>
       <tuv lang="pl-PL">
