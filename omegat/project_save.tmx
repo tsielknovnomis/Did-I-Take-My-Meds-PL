@@ -382,6 +382,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>H:mm</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T091408Z" creationid="48606" creationdate="20220420T091408Z">
+        <seg>hh:mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Hello blank fragment</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062742Z" creationid="Del" creationdate="20220409T062742Z">
@@ -456,8 +464,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Medication saved</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080054Z" creationid="48606" creationdate="20220420T080054Z">
-        <seg>Leczenie zapisano</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T090601Z" creationid="48606" creationdate="20220420T080054Z">
+        <seg>Lek zapisano</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +496,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>New medication cancelled</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080143Z" creationid="48606" creationdate="20220420T080143Z">
-        <seg>Anulowanie nowego leku</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T090912Z" creationid="48606" creationdate="20220420T080143Z">
+        <seg>Dodawanie anulowano</seg>
       </tuv>
     </tu>
     <tu>
