@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-GB">
+        <seg>%1$d remaining doses</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075830Z" creationid="student" creationdate="20220420T075830Z">
+        <seg>Pozostałe dawki: %1$d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>%1$s
 Starts %2$s
 Repeats every
@@ -22,10 +30,34 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>%1$s%2$s per dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075759Z" creationid="student" creationdate="20220420T075759Z">
+        <seg>%1$s%2$s/dawka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>10 remaining doses</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075817Z" creationid="student" creationdate="20220420T075817Z">
+        <seg>10 pozostałych dawek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>12:00AM</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T080214Z" creationid="48606" creationdate="20220420T080214Z">
         <seg>12:00</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>5mg per dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075804Z" creationid="student" creationdate="20220420T075804Z">
+        <seg>5mg/dawka</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +106,22 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="SvK" changedate="20220406T082707Z" creationid="SvK" creationdate="20220406T082707Z">
         <seg>Opis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dose Amount</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075744Z" creationid="student" creationdate="20220420T075744Z">
+        <seg>Ilość dawki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Dose Unit</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075739Z" creationid="student" creationdate="20220420T075739Z">
+        <seg>Dawka</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +222,30 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Pharmacy</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075707Z" creationid="student" creationdate="20220420T075707Z">
+        <seg>Apteka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pharmacy: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075719Z" creationid="student" creationdate="20220420T075719Z">
+        <seg>Apteka: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Pharmacy: Undefined</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075729Z" creationid="student" creationdate="20220420T075729Z">
+        <seg>Apteka: nie określono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Pick a time before saving</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T075916Z" creationid="48606" creationdate="20220420T075916Z">
@@ -186,6 +258,14 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075422Z" creationid="konstancja" creationdate="20220420T075422Z">
         <seg>Poprzednia dawka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remaining Doses</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T075810Z" creationid="student" creationdate="20220420T075810Z">
+        <seg>Pozostałe dawki</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +318,27 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Take with food</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080402Z" creationid="student" creationdate="20220420T080402Z">
+        <seg>Brać z jedzeniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Taken as needed</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062733Z" creationid="Del" creationdate="20220409T062733Z">
         <seg>Przyjmowana w razie potrzeby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>There are no doses remaining
+If this is wrong, update the remaining doses by editing the medication</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080242Z" creationid="student" creationdate="20220420T080242Z">
+        <seg>Brak pozostałych dawek. Jeśli to jest błąd, zaktualizuj pozostałe dawki poprzez edytowanie leku</seg>
       </tuv>
     </tu>
     <tu>
