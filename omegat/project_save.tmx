@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -62,6 +62,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>A widget that displays a single medication, the time since the last taken dose, and a button to submit a taken dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080737Z" creationid="student" creationdate="20220420T080737Z">
+        <seg>Widżet pokazuje pojedynczy lek, czas od ostatniej przyjętek dawki i przycisk do zatwierdzania przyjętej dawki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>About</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T080149Z" creationid="konstancja" creationdate="20220420T075931Z">
@@ -94,10 +102,42 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Brazilian Portuguese translations by mezysinc on GitHub, lnux-usr on GitHub, and Card151915 on Weblate
+
+German translations by jpameli on GitHub
+
+French translations by Edanas on Weblate
+
+Hebrew translations by Yaron on Weblate
+
+Chinese Simplified translations by luxu on Weblate
+
+Spanish translations by sguinetti on Weblate, caos30 on Weblate, and nzgha on Weblate
+
+Catalan translations by caos30 on Weblate
+
+Turkish translation by Lion on Weblate
+
+Bug fix by johannes87 on GitHub</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080542Z" creationid="student" creationdate="20220420T080542Z">
+        <seg>Naprawa błędów johannes87 w GitHub</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T075814Z" creationid="48606" creationdate="20220420T075814Z">
         <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Choose A Medication</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080741Z" creationid="student" creationdate="20220420T080741Z">
+        <seg>Wybierz lek</seg>
       </tuv>
     </tu>
     <tu>
@@ -395,6 +435,14 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062832Z" creationid="Del" creationdate="20220409T062832Z">
         <seg>Rok/lata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>You will update the taken time of this dose and delete the associated proof image if it exists.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T080823Z" creationid="student" creationdate="20220420T080823Z">
+        <seg>Zaktualizujesz czas przyjętej dawki i usuniesz połączone z nią obrazy, jeśli istnieją.</seg>
       </tuv>
     </tu>
     <tu>
