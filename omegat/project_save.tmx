@@ -38,6 +38,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>(Long click a record to delete it)</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081214Z" creationid="student" creationdate="20220420T081214Z">
+        <seg>(W celu usunięcia przytrzymaj pole z zapisem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>10 remaining doses</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T075817Z" creationid="student" creationdate="20220420T075817Z">
@@ -102,6 +110,30 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Approximately %1$d day(s), %2$d hour(s), and %3$d minute(s) since last taken dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081217Z" creationid="student" creationdate="20220420T081217Z">
+        <seg>Około %1$d dn., %2$d godz. i %3$d min od ostatniej przyjętej dawki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Approximately 0 day(s), 0 hour(s), and 0 minute(s) since last taken dose</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081216Z" creationid="student" creationdate="20220420T081216Z">
+        <seg>Około 0 dn., 0 godz. i 0 min od ostatniej przyjętej dawki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Back up database</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081202Z" creationid="student" creationdate="20220420T081202Z">
+        <seg>Zapisz kopię zapasową bazy danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Brazilian Portuguese translations by mezysinc on GitHub, lnux-usr on GitHub, and Card151915 on Weblate
 
 German translations by jpameli on GitHub
@@ -138,6 +170,30 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T080741Z" creationid="student" creationdate="20220420T080741Z">
         <seg>Wybierz lek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>DITMM?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081209Z" creationid="student" creationdate="20220420T081209Z">
+        <seg>Leki?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Database is invalid</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081204Z" creationid="student" creationdate="20220420T081204Z">
+        <seg>Nieprawidłowa baza danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Database restored</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081205Z" creationid="student" creationdate="20220420T081205Z">
+        <seg>Przywrócono bazę danych</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +350,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Not taken</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081150Z" creationid="student" creationdate="20220420T081150Z">
+        <seg>Nie przyjęto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Okay</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062523Z" creationid="Del" creationdate="20220409T062523Z">
@@ -346,6 +410,30 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T075810Z" creationid="student" creationdate="20220420T075810Z">
         <seg>Pozostałe dawki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Remind in 15 minutes</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081211Z" creationid="student" creationdate="20220420T081211Z">
+        <seg>Przypomnienie za 15 min</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Require photo proof</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081219Z" creationid="student" creationdate="20220420T081219Z">
+        <seg>Wymagane zdjęcie potwierdzające</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Restore database</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081157Z" creationid="student" creationdate="20220420T081157Z">
+        <seg>Przywróć bazę danych</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,10 +502,26 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Taken</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081145Z" creationid="student" creationdate="20220420T081145Z">
+        <seg>Przyjęto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Taken as needed</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062733Z" creationid="Del" creationdate="20220409T062733Z">
         <seg>Przyjmowana w razie potrzeby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>The dose record will be permanently deleted.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081213Z" creationid="student" creationdate="20220420T081213Z">
+        <seg>Zapis przyjmowania leku zostanie trwale usunięty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -443,6 +547,14 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075622Z" creationid="konstancja" creationdate="20220420T075622Z">
         <seg>Pora na dawkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Took it</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081207Z" creationid="student" creationdate="20220420T081207Z">
+        <seg>Już przyjęto</seg>
       </tuv>
     </tu>
     <tu>
