@@ -462,6 +462,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rx #: Undefined</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T081721Z" creationid="student" creationdate="20220420T081721Z">
+        <seg>Rx#: nie określono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sample Medicine</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T080209Z" creationid="48606" creationdate="20220420T080209Z">
@@ -555,6 +563,14 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T080242Z" creationid="student" creationdate="20220420T080242Z">
         <seg>Brak pozostałych dawek. Jeśli to jest błąd, zaktualizuj pozostałe dawki poprzez edytowanie leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>There are no doses remaining\nIf this is wrong, update the remaining doses by editing the medication</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220420T082020Z" creationid="student" creationdate="20220420T082020Z">
+        <seg>Nie ma pozostałych dawek\nJeśli to jest błąd, zaktualizuj pozostałe dawki poprzez edytowanie leku</seg>
       </tuv>
     </tu>
     <tu>
