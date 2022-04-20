@@ -222,6 +222,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Closest dose: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090452Z" creationid="Magda_B" creationdate="20220420T090452Z">
+        <seg>Nadchodząca dawka: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Closest dose: 1:00PM today</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090434Z" creationid="Magda_B" creationdate="20220420T090434Z">
