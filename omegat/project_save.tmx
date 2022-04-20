@@ -208,8 +208,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Cancel</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220420T075814Z" creationid="48606" creationdate="20220420T075814Z">
-        <seg>Usuń</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220420T085838Z" creationid="48606" creationdate="20220420T075814Z">
+        <seg>Anuluj</seg>
       </tuv>
     </tu>
     <tu>
