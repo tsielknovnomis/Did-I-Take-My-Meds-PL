@@ -342,6 +342,14 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>I just took it!</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084240Z" creationid="Magda_B" creationdate="20220420T084240Z">
+        <seg>Dawka zażyta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>If you still want to support me, you can find CorruptedArk on Liberapay in a separate browser.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062632Z" creationid="Del" creationdate="20220409T062632Z">
@@ -655,6 +663,22 @@ If this is wrong, update the remaining doses by editing the medication</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Today</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084248Z" creationid="Magda_B" creationdate="20220420T084248Z">
+        <seg>Dzisiaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Tomorrow</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084304Z" creationid="Magda_B" creationdate="20220420T084304Z">
+        <seg>Jutro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Took it</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081207Z" creationid="student" creationdate="20220420T081207Z">
@@ -691,6 +715,14 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062832Z" creationid="Del" creationdate="20220409T062832Z">
         <seg>Rok/lata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Yesterday</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084255Z" creationid="Magda_B" creationdate="20220420T084255Z">
+        <seg>Wczoraj</seg>
       </tuv>
     </tu>
     <tu>
