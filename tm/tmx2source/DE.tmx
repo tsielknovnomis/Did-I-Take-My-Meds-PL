@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b54" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Did I Take My Meds?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medis eingenommen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Neu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add medications to your list</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medikamente zur Liste hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medication name</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Name des Medikaments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Beschreibung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>select a time</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Zeit auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>time_picker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Speichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pick a time before saving</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Zeit vor dem Speichern wählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill out name before saving</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Name vor dem Speichern ausfüllen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medication saved</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medikament gespeichert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New medication cancelled</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Eingabe abgebrochen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>H:mm</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>H:mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>h:mma</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>hh:mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sample Medicine</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Beispiel Medikament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>12:00AM</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>12:00AM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This is a sample description of a medication.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Dies ist eine Beispielbeschreibung für ein Medikament.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It has multiple sentences and covers multiple lines.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Sie besteht aus mehreren Sätzen und umfasst mehrere Zeilen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Previous doses:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Vorherige Einnahme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I just took it!</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Jetzt einnehmen!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Closest dose: 1:00PM today</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Dosis geplant um: 1:00PM heute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>medication_position</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Today</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>heute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yesterday</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>gestern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tomorrow</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>morgen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Closest dose: %1$s</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Dosis geplant um: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You already took this dose\nI hope you didn\'t take it again</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Du hast diese Dosis bereits eingenommen \nIch hoffe, du hast sie nicht nochmal genommen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>MMM d, yyyy</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>MM dd, yyyy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time taken: %1$s</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Einnahmezeitpunkt: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>delete</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Bist du sicher?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The medication will be permanently deleted</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Das Medikament wird dauerhaft gelöscht</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>confirm</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Bestätigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You took this already</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Du hast diese Dosis bereits eingenommen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Bearbeiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit cancelled</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Bearbeitung abgebrochen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notifications enabled</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Benachrichtigungen aktiviert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notifications disabled</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Benachrichtigungen deaktiviert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>did_i_take_my_meds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reminder notifications med_id</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Erinnerungsnotifikationen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time for your dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Zeit für deine Dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Medication</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Neues Medikament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medication Details</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Details zur Medikation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Medication</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medikament bearbeiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Über</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>v%1$s by Noah Stanford (aka CorruptedArk)\n\nDid I Take My Meds?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>v%1$s by Noah Stanford (aka CorruptedArk)\n\nDid I Take My Meds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>is a FOSS app to keep track of medications\nDid I Take My Meds?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>(Deutscher App-Titel: Medikamente eingenommen?) is a FOSS app to keep track of medications\nDid I Take My Meds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>is designed to help prevent a user from skipping doses and/or overdosing\nCopyright © 2021 Noah Stanford noahstandingford@gmail.com\n\nDid I Take My Meds?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>is designed to help prevent a user from skipping doses and/or overdosing\nCopyright © 2021 Noah Stanford noahstandingford@gmail.com\n\nDid I Take My Meds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nDid I Take My Meds?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nDid I Take My Meds?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with this program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If not, see https://www.gnu.org/licenses.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>If not, see https://www.gnu.org/licenses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Support me on Liberapay</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Unterstütze mich auf Liberapay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View the project on GitHub</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Projekt auf GitHub ansehen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://github.com/CorruptedArk/did-i-take-my-meds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>https://liberapay.com/CorruptedArk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>playRelease</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry!</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Entschuldigung!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Okay</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Einverstanden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Google doesn\'t allow developers to place donation links in apps to support themselves if they are not tax exempt charities.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Google erlaubt es Entwicklern nicht, Spendenlinks in Apps zu platzieren, um sich selbst zu unterstützen, wenn es sich nicht um steuerbefreite Wohltätigkeitsorganisationen handelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you still want to support me, you can find CorruptedArk on Liberapay in a separate browser.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Wenn Sie mich trotzdem unterstützen wollen, können Sie CorruptedArk auf Liberapay in einem separaten Browser aufrufen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My GitHub repository is a good place to start.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Mein GitHub-Repository ist ein guter Startpunkt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>last_version_used</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add another dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Weitere Dosis hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taken as needed</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Einnahme nach Bedarf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hello blank fragment</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Hallo leeres Feld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start date</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Startdatum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Time between doses:</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Zeit zwischen den Einnahmen:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Day(s)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Tag(e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Week(s)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Woche(n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Month(s)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Monat(e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Year(s)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Jahr(e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schedule dose schedule_picker</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Einnahme planen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>date_picker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>%1$s\nStarts %2$s\nRepeats every\n%3$d day(s), %4$d week(s),\n%5$d month(s), %6$d year(s)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>%1$s\nStartet %2$s\nWiederholt sich alle\n%3$d Tag(e), %4$d Woche(n),\n%5$d Monat(e), %6$d Jahr(e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>UTC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill out all schedules before saving</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Vor dem Speichern alle Zeitpläne ausfüllen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fill out schedule before confirming</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Vor dem Speichern den Zeitplan ausfüllen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next dose: %1$s</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Nächste Einnahme: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taken</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Eingenommen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not taken</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Ausstehend</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Sortieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restore database</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Datenbank wiederherstellen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up database</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Datenbank sichern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Database is invalid</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Datenbank ist ungültig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Database restored</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Datenbank wiederhergestellt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Took it</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Bereits eingenommen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>DITMM?</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remind in 15 minutes</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>In 15 Minuten erinnern</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The dose record will be permanently deleted.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Der Eintrag wird endgültig gelöscht.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Long click a record to delete it)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>(Klicke lange auf einen Eintrag, um ihn zu löschen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately 0 day(s), 0 hour(s), and 0 minute(s) since last taken dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Ungefähr 0 Tag(e), 0 Stunde(n) und 0 Minute(n) seit der letzten Einnahme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately %1$d day(s), %2$d hour(s), and %3$d minute(s) since last taken dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Ungefähr %1$d Tag(e), %2$d Stunde(n) und %3$d Minute(n) seit der letzten Einnahme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Require photo proof images</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Fotonachweis erforderlich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dev.corruptedark.diditakemymeds.fileprovider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dose and proof saved</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Einnahme und Nachweis gespeichert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failed to get proof dose_time</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Nachweis konnte nicht geladen werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No image available</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Kein Bild verfügbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tmp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Tap a record to view details)</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>(Auf einen Eintrag tippen, um Details anzuzeigen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>time_taken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>take_med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up successful</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Sicherung erfolgreich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up failed</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Sicherung fehlgeschlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dose Details</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Details der Einnahme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medication active</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medikament aktiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inactive</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Inaktiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medication Type</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Medikamenten-Typ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undefined</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Unbestimmt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type: %1$s</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Typ: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type: Undefined</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Typ: undefiniert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rx #</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Rx#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rx #: %1$s</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Rx#: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rx #: Undefined</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Rx#: undefiniert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pharmacy</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Pharmazie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pharmacy: %1$s</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Pharmazie: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pharmacy: Undefined</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Pharmazie: undefiniert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dose Unit</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Einheit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dose Amount</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Menge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>%1$s%2$s per dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>%1$s%2$s pro Dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>5mg per dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>5mg pro Dosis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remaining Doses</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Verbleibende Dosen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>10 remaining doses</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>10 verbleibende Dosen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>%1$d remaining doses</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>%1$d verbleibende Dosen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are no doses remaining\nIf this is wrong, update the remaining doses by editing the medication</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Keine verbleibende Dosis \nFalls dies falsch ist, bitte verbleibende Dosen editieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Take with food</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Zum Essen einnehmen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Brazilian Portuguese translations by mezysinc on GitHub, lnux-usr on GitHub, and Card151915 on Weblate \n \nGerman translations by jpameli on GitHub \n \nFrench translations by Edanas on Weblate \n \nHebrew translations by Yaron on Weblate \n \nChinese Simplified translations by luxu on Weblate \n \nSpanish translations by sguinetti on Weblate, caos30 on Weblate, and nzgha on Weblate \n \nCatalan translations by caos30 on Weblate \n \nTurkish translation by Lion on Weblate \n \nBug fix by johannes87 on GitHub \n \n</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Brasilianisch-portugiesische Übersetzungen von mezysinc auf GitHub, lnux-usr auf GitHub, und Card151915 auf Weblate \n \nDeutsche Übersetzungen von jpameli auf GitHub \n \nFranzösische Übersetzungen von Edanas auf Weblate \n \nHebräische Übersetzungen von Yaron auf Weblate \n \nVereinfachte chinesische Übersetzungen von luxu auf Weblate \n \nSpanische Übersetzungen von sguinetti auf Weblate, caos30 auf Weblate, und nzgha auf Weblate \n \nKatalanische Übersetzungen von caos30 auf Weblate \n \nTürkische Übersetzung von Lion auf Weblate \n \nFehlerbehebung von johannes87 auf GitHub \n \n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A widget that displays a single medication, the time since the last taken dose, and a button to submit a taken dose</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Ein Widget, das ein einzelnes Medikament, die Zeit seit der letzten Einnahme und eine Schaltfläche zum Übermitteln einer eingenommenen Dosis anzeigt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose A Medication</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Wähle ein Medikament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You will update the taken time of this dose and delete the associated proof image if it exists.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Sie ändern damit die Einnahmezeit dieser Dosis und löschen das zugehörige Beweisbild, falls es existiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Birth control schedule</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>Zeitplan für die Geburtskontrolle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>21 + 7</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>21 + 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>63 + 7</seg>
+      </tuv>
+      <tuv xml:lang="de-DE" creationid="OmegaT Aligner" creationdate="20220323T094726Z">
+        <seg>63 + 7</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
