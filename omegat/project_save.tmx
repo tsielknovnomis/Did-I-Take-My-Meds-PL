@@ -232,8 +232,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Closest dose: 1:00PM today</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090434Z" creationid="Magda_B" creationdate="20220420T090434Z">
-        <seg>Nadchodząca dawka: 13:00 dziś</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T080747Z" creationid="Magda_B" creationdate="20220420T090434Z">
+        <seg>Nadchodząca dawka: 13:00 dzisiaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>I just took it!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084240Z" creationid="Magda_B" creationdate="20220420T084240Z">
-        <seg>Dawka zażyta!</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T080741Z" creationid="Magda_B" creationdate="20220420T084240Z">
+        <seg>Czas zażyć dawkę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +426,14 @@ Bug fix by johannes87 on GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T080450Z" creationid="48606" creationdate="20220420T080450Z">
         <seg>Składa się z wielu zdań i obejmuje wiele wierszy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>MMM d, yyyy</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081237Z" creationid="Magda_B" creationdate="20220425T081237Z">
+        <seg>dd/MM/rrrr</seg>
       </tuv>
     </tu>
     <tu>
