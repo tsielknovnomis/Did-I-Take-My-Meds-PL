@@ -883,8 +883,8 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
       <tuv lang="en-GB">
         <seg>You took this already</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T085033Z" creationid="Magda_B" creationdate="20220420T085033Z">
-        <seg>Dawka została uz zażyta</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081313Z" creationid="Magda_B" creationdate="20220420T085033Z">
+        <seg>Dawka została już zażyta</seg>
       </tuv>
     </tu>
     <tu>
@@ -899,8 +899,8 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
       <tuv lang="en-GB">
         <seg>confirm</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T085004Z" creationid="Magda_B" creationdate="20220420T085004Z">
-        <seg>potwierdź</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081301Z" creationid="Magda_B" creationdate="20220420T085004Z">
+        <seg>Potwierdź</seg>
       </tuv>
     </tu>
     <tu>
@@ -915,8 +915,8 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
       <tuv lang="en-GB">
         <seg>delete</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084855Z" creationid="Magda_B" creationdate="20220420T084855Z">
-        <seg>usuń</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081249Z" creationid="Magda_B" creationdate="20220420T084855Z">
+        <seg>Usuń</seg>
       </tuv>
     </tu>
     <tu>
