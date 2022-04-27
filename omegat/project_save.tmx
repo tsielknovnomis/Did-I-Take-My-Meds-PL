@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1045,17 +1045,6 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>tmp</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>v%1$s by Noah Stanford (aka CorruptedArk)
-
-Did I Take My Meds?</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T080008Z" creationid="konstancja" creationdate="20220420T080008Z">
-        <seg>v%1$s by Noah Stanford (aka CorruptedArk)
-Did I Take My Meds?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
