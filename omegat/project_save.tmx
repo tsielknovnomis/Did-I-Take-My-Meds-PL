@@ -352,8 +352,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Fill out all schedules before saving</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T080113Z" creationid="student" creationdate="20220420T080113Z">
-        <seg>Wypełnij wszystkie harmonogramy przed zapisaniem</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090124Z" creationid="student" creationdate="20220420T080113Z">
+        <seg>Wypełnij wszystkie harmonogramy przed zapisaniem.</seg>
       </tuv>
     </tu>
     <tu>
