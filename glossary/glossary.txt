@@ -1,3 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 medication	lek
 medicine	lek
+Did I Take My Meds	Leki przyjęte
