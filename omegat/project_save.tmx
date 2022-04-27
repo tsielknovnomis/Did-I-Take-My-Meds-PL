@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -376,8 +376,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Google doesn't allow developers to place donation links in apps to support themselves if they are not tax exempt charities.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062542Z" creationid="Del" creationdate="20220409T062542Z">
-        <seg>Google nie zezwala programistom na umieszczanie w aplikacjach linków do darowizn w celu wspierania siebie, jeśli nie są to organizacje charytatywne zwolnione z podatku.</seg>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220427T084813Z" creationid="Del" creationdate="20220409T062542Z">
+        <seg>Google nie zezwala programistom na umieszczanie w aplikacjach linków do darowizn w celu wspierania swojej działalności, jeśli nie są to organizacje charytatywne zwolnione z podatku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>My GitHub repository is a good place to start.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062649Z" creationid="Del" creationdate="20220409T062649Z">
-        <seg>Moje repozytorium na GitHub to dobre miejsce na początek.</seg>
+      <tuv lang="pl-PL" changeid="Del" changedate="20220427T085725Z" creationid="Del" creationdate="20220409T062649Z">
+        <seg>Moje repozytorium na GitHub to dobre miejsce, by zacząć.</seg>
       </tuv>
     </tu>
     <tu>
