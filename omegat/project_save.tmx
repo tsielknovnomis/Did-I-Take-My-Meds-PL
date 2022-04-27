@@ -672,8 +672,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Sort</seg>
       </tuv>
-      <tuv lang="pl-PL">
-        <seg>Sort</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090332Z">
+        <seg>Sortuj</seg>
       </tuv>
     </tu>
     <tu>
