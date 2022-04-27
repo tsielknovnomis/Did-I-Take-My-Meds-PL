@@ -40,8 +40,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>(Long click a record to delete it)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T081214Z" creationid="student" creationdate="20220420T081214Z">
-        <seg>(W celu usunięcia przytrzymaj pole z zapisem)</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090943Z" creationid="student" creationdate="20220420T081214Z">
+        <seg>(W celu usunięcia przytrzymaj pole z zapisem).</seg>
       </tuv>
     </tu>
     <tu>
