@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -144,8 +144,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>Back up database</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T081202Z" creationid="student" creationdate="20220420T081202Z">
-        <seg>Zapisz kopię zapasową bazy danych</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090929Z" creationid="student" creationdate="20220420T081202Z">
+        <seg>Zapisz kopię zapasową bazy danych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,8 +624,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Restore database</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T081157Z" creationid="student" creationdate="20220420T081157Z">
-        <seg>Przywróć bazę danych</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090924Z" creationid="student" creationdate="20220420T081157Z">
+        <seg>Przywróć bazę danych.</seg>
       </tuv>
     </tu>
     <tu>
