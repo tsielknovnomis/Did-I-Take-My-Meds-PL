@@ -512,8 +512,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Next dose: %1$s</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T081140Z" creationid="student" creationdate="20220420T081140Z">
-        <seg>Następna dawka: %1$s</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090349Z" creationid="student" creationdate="20220420T081140Z">
+        <seg>Najbliższa dawka: %1$s</seg>
       </tuv>
     </tu>
     <tu>
