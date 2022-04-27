@@ -136,8 +136,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>Are you sure?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084909Z" creationid="Magda_B" creationdate="20220420T084909Z">
-        <seg>Czy napewno?</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080814Z" creationid="Magda_B" creationdate="20220420T084909Z">
+        <seg>Czy na pewno?</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>MMM d, yyyy</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081237Z" creationid="Magda_B" creationdate="20220425T081237Z">
-        <seg>dd/MM/rrrr</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080221Z" creationid="Magda_B" creationdate="20220425T081237Z">
+        <seg>dd/MM/yyyy</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,8 +874,8 @@ If this is wrong, update the remaining doses by editing the medication</seg>
         <seg>You already took this dose
 I hope you didn't take it again</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084722Z" creationid="Magda_B" creationdate="20220420T084722Z">
-        <seg>Dawka została już zazyta
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080210Z" creationid="Magda_B" creationdate="20220420T084722Z">
+        <seg>Dawka została już zażyta
 Mam nadzieję, że nie została zażyta ponownie</seg>
       </tuv>
     </tu>
