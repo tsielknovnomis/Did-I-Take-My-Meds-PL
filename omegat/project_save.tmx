@@ -96,8 +96,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>Add</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20220405T171003Z" creationid="SvK" creationdate="20220405T171003Z">
-        <seg>Dodaj</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220427T080603Z" creationid="SvK" creationdate="20220405T171003Z">
+        <seg>\Dodaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -280,8 +280,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Did I Take My Meds?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220420T080314Z" creationid="48606" creationdate="20220420T080314Z">
-        <seg>Czy przyjąłem leki?</seg>
+      <tuv lang="pl-PL" changeid="48606" changedate="20220427T080607Z" creationid="48606" creationdate="20220420T080314Z">
+        <seg>Leki przyjęte?</seg>
       </tuv>
     </tu>
     <tu>
