@@ -400,8 +400,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>I just took it!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T075808Z" creationid="Magda_B" creationdate="20220420T084240Z">
-        <seg>Dawka zażyta!</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085613Z" creationid="Magda_B" creationdate="20220420T084240Z">
+        <seg>Dawka przyjęta!</seg>
       </tuv>
     </tu>
     <tu>
@@ -536,8 +536,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Notifications disabled</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090245Z" creationid="Magda_B" creationdate="20220420T090245Z">
-        <seg>Powiadomienia aulowane</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080952Z" creationid="Magda_B" creationdate="20220420T090245Z">
+        <seg>Powiadomienia anulowane</seg>
       </tuv>
     </tu>
     <tu>
@@ -777,8 +777,8 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       <tuv lang="en-GB">
         <seg>Time taken: %1$s</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084844Z" creationid="Magda_B" creationdate="20220420T084844Z">
-        <seg>Czas zażycia: %1$s</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085650Z" creationid="Magda_B" creationdate="20220420T084844Z">
+        <seg>Czas przyjęcia: %1$s</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,17 +874,17 @@ If this is wrong, update the remaining doses by editing the medication</seg>
         <seg>You already took this dose
 I hope you didn't take it again</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080210Z" creationid="Magda_B" creationdate="20220420T084722Z">
-        <seg>Dawka została już zażyta
-Mam nadzieję, że nie została zażyta ponownie</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085631Z" creationid="Magda_B" creationdate="20220420T084722Z">
+        <seg>Dawka została już przyjęta
+Mam nadzieję, że nie została przyjęta ponownie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>You took this already</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081313Z" creationid="Magda_B" creationdate="20220420T085033Z">
-        <seg>Dawka została już zażyta</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085721Z" creationid="Magda_B" creationdate="20220420T085033Z">
+        <seg>Dawka została już przyjęta</seg>
       </tuv>
     </tu>
     <tu>
