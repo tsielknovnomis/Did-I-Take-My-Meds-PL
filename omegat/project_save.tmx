@@ -224,16 +224,16 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Closest dose: %1$s</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T090452Z" creationid="Magda_B" creationdate="20220420T090452Z">
-        <seg>Nadchodząca dawka: %1$s</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080059Z" creationid="Magda_B" creationdate="20220420T090452Z">
+        <seg>Następna dawka: %1$s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Closest dose: 1:00PM today</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T080747Z" creationid="Magda_B" creationdate="20220420T090434Z">
-        <seg>Nadchodząca dawka: 13:00 dzisiaj</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080025Z" creationid="Magda_B" creationdate="20220420T090434Z">
+        <seg>Następna dawka: 13:00 dzisiaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -400,8 +400,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>I just took it!</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T080741Z" creationid="Magda_B" creationdate="20220420T084240Z">
-        <seg>Czas zażyć dawkę!</seg>
+      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T075808Z" creationid="Magda_B" creationdate="20220420T084240Z">
+        <seg>Dawka zażyta!</seg>
       </tuv>
     </tu>
     <tu>
