@@ -368,8 +368,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Fill out schedule before confirming</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T080122Z" creationid="student" creationdate="20220420T080122Z">
-        <seg>Wypełnij harmonogram przed potwierdzeniem</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T090152Z" creationid="student" creationdate="20220420T080122Z">
+        <seg>Uzupełnij harmonogram przed zatwierdzeniem.</seg>
       </tuv>
     </tu>
     <tu>
