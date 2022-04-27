@@ -1047,6 +1047,18 @@ Mam nadzieję, że nie została zażyta ponownie</seg>
         <seg>tmp</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>v%1$s by Noah Stanford (aka CorruptedArk)
+
+Did I Take My Meds?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="student" changedate="20220427T082834Z" creationid="student" creationdate="20220427T082834Z">
+        <seg>v%1$s by Noah Stanford (aka CorruptedArk)
+
+Leki przyjęte?</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
