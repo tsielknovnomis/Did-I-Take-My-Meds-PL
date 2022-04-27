@@ -48,8 +48,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>(Tap a record to view details)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T083854Z" creationid="student" creationdate="20220420T083854Z">
-        <seg>(Przytrzymaj aby usunąć)</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220427T151036Z" creationid="student" creationdate="20220420T083854Z">
+        <seg>(Przytrzymaj, aby usunąć)</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,8 +96,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>Add</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220427T080603Z" creationid="SvK" creationdate="20220405T171003Z">
-        <seg>\Dodaj</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220427T150929Z" creationid="SvK" creationdate="20220405T171003Z">
+        <seg>Dodaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -1029,6 +1029,14 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>take_med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>time_picker</seg>
+      </tuv>
+      <tuv lang="pl-PL">
+        <seg>time_picker</seg>
       </tuv>
     </tu>
     <tu>
