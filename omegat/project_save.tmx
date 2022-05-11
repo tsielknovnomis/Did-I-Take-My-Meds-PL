@@ -48,8 +48,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>(Tap a record to view details)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20220427T151036Z" creationid="student" creationdate="20220420T083854Z">
-        <seg>(Przytrzymaj, aby usunąć)</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T075957Z" creationid="student" creationdate="20220420T083854Z">
+        <seg>(Przytrzymaj, aby usunąć).</seg>
       </tuv>
     </tu>
     <tu>
@@ -923,8 +923,8 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
       <tuv lang="en-GB">
         <seg>dev.corruptedark.diditakemymeds.fileprovider</seg>
       </tuv>
-      <tuv lang="pl-PL">
-        <seg>dev.corruptedark.diditakemymeds.fileprovider</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T075944Z">
+        <seg>pdev.corruptedark.diditakemymeds.fileprovider</seg>
       </tuv>
     </tu>
     <tu>
