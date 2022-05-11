@@ -264,8 +264,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Day(s)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062819Z" creationid="Del" creationdate="20220409T062819Z">
-        <seg>Dzień/dni</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T082741Z" creationid="Del" creationdate="20220409T062819Z">
+        <seg>dn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -480,8 +480,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Month(s)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062825Z" creationid="Del" creationdate="20220409T062825Z">
-        <seg>Miesiąc(e)</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T082753Z" creationid="Del" creationdate="20220409T062825Z">
+        <seg>mies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -849,16 +849,16 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       <tuv lang="en-GB">
         <seg>Week(s)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220406T084858Z" creationid="Del" creationdate="20220406T084858Z">
-        <seg>Tyg.</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T082744Z" creationid="Del" creationdate="20220406T084858Z">
+        <seg>tyg.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Year(s)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062832Z" creationid="Del" creationdate="20220409T062832Z">
-        <seg>Rok/lata</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T082757Z" creationid="Del" creationdate="20220409T062832Z">
+        <seg>rok/lata</seg>
       </tuv>
     </tu>
     <tu>
