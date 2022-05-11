@@ -624,8 +624,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Restore database</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220427T090924Z" creationid="student" creationdate="20220420T081157Z">
-        <seg>Przywróć bazę danych.</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T080326Z" creationid="student" creationdate="20220420T081157Z">
+        <seg>Przywróć bazę danyc</seg>
       </tuv>
     </tu>
     <tu>
