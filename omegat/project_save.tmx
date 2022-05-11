@@ -144,8 +144,8 @@ Powtarza się co
       <tuv lang="en-GB">
         <seg>Back up database</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220427T090929Z" creationid="student" creationdate="20220420T081202Z">
-        <seg>Zapisz kopię zapasową bazy danych.</seg>
+      <tuv lang="pl-PL" changeid="student" changedate="20220511T080335Z" creationid="student" creationdate="20220420T081202Z">
+        <seg>Zapisz kopię zapasową bazy danych</seg>
       </tuv>
     </tu>
     <tu>
