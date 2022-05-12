@@ -937,14 +937,6 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>date_picker</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>date_picker</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>delete</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081249Z" creationid="Magda_B" creationdate="20220420T084855Z">
@@ -957,22 +949,6 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220511T075944Z">
         <seg>pdev.corruptedark.diditakemymeds.fileprovider</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>did_i_take_my_meds</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>did_i_take_my_meds</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>dose_time</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>dose_time</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,30 +985,6 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>last_version_used</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>last_version_used</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>med_id</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>med_id</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>medication_position</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>medication_position</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>playRelease</seg>
       </tuv>
       <tuv lang="pl-PL">
@@ -1049,42 +1001,10 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>schedule_picker</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>schedule_picker</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>select a time</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T075732Z" creationid="48606" creationdate="20220420T075732Z">
         <seg>wybierz godzinę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>take_med</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>take_med</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>time_picker</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>time_picker</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>time_taken</seg>
-      </tuv>
-      <tuv lang="pl-PL">
-        <seg>time_taken</seg>
       </tuv>
     </tu>
     <tu>
