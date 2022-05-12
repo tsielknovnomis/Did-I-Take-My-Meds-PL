@@ -192,8 +192,24 @@ Turkish translation by Lion on Weblate
 
 Bug fix by johannes87 on GitHub</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T082945Z" creationid="student" creationdate="20220420T080542Z">
-        <seg>Brazylijsko-portugalskie tłumaczenia mezysinc na GitHub, Inux-usr na GitHub i Card151915 na Weblate \n n\Niemieckie tłumaczenia jpameli na GitHub \n \nFrancuskie tłumaczenia Edanasa na Weblate \n \nHebrajskie tłumaczenia Yarona na Weblate \n \nUproszczone chińskie tłumaczenia luxu na Weblate \n \nHiszpańskie tłumaczenia sguinetti na Weblate, caos30 na Weblate i nzgha na Weblate \n \nKatalońskie tłumaczenia caos30 na Weblate \n \nTureckie tłumaczenia Lion na Weblate \n \nUsuwanie błędów johannes87 na GitHub \n \n </seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T145010Z" creationid="student" creationdate="20220420T080542Z">
+        <seg>Brazylijsko-portugalskie tłumaczenia mezysinc na GitHub, Inux-usr na GitHub i Card151915 na Weblate
+
+Niemieckie tłumaczenia jpameli na GitHub
+
+Francuskie tłumaczenia Edanasa na Weblate
+
+Hebrajskie tłumaczenia Yarona na Weblate
+
+Uproszczone chińskie tłumaczenia luxu na Weblate
+
+Hiszpańskie tłumaczenia sguinetti na Weblate, caos30 na Weblate i nzgha na Weblate
+
+Katalońskie tłumaczenia caos30 na Weblate
+
+Tureckie tłumaczenia Lion na Weblate
+
+Usuwanie błędów johannes87 na GitHub</seg>
       </tuv>
     </tu>
     <tu>
@@ -288,8 +304,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>Dose Amount</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T075744Z" creationid="student" creationdate="20220420T075744Z">
-        <seg>Ilość dawki</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144850Z" creationid="student" creationdate="20220420T075744Z">
+        <seg>Ilość dawki </seg>
       </tuv>
     </tu>
     <tu>
@@ -630,10 +646,26 @@ Bug fix by johannes87 on GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>Rx #</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144749Z" creationid="SvK" creationdate="20220512T144749Z">
+        <seg>Kod recepty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>Rx #: %1$s</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144803Z" creationid="SvK" creationdate="20220512T144803Z">
+        <seg>Kod recepty: %1$s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Rx #: Undefined</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T081721Z" creationid="student" creationdate="20220420T081721Z">
-        <seg>Rx#: nie określono</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144835Z" creationid="student" creationdate="20220420T081721Z">
+        <seg>Kod recepty: nie określono</seg>
       </tuv>
     </tu>
     <tu>
