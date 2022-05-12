@@ -304,8 +304,8 @@ Usuwanie błędów johannes87 na GitHub</seg>
       <tuv lang="en-GB">
         <seg>Dose Amount</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144850Z" creationid="student" creationdate="20220420T075744Z">
-        <seg>Ilość dawki </seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T145101Z" creationid="student" creationdate="20220420T075744Z">
+        <seg>Ilość dawki</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +320,8 @@ Usuwanie błędów johannes87 na GitHub</seg>
       <tuv lang="en-GB">
         <seg>Dose Unit</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220420T075739Z" creationid="student" creationdate="20220420T075739Z">
-        <seg>Dawka</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T145046Z" creationid="student" creationdate="20220420T075739Z">
+        <seg>Jednostka dawkowania</seg>
       </tuv>
     </tu>
     <tu>
