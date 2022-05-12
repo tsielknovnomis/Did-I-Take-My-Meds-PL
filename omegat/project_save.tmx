@@ -384,8 +384,8 @@ Bug fix by johannes87 on GitHub</seg>
       <tuv lang="en-GB">
         <seg>H:mm</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220420T091408Z" creationid="48606" creationdate="20220420T091408Z">
-        <seg>hh:mm</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144434Z" creationid="48606" creationdate="20220420T091408Z">
+        <seg>H:mm</seg>
       </tuv>
     </tu>
     <tu>
@@ -941,6 +941,14 @@ Mam nadzieję, że nie została przyjęta ponownie</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>dose_time</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>h:mma</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T144445Z" creationid="SvK" creationdate="20220512T144445Z">
+        <seg>hh:mm</seg>
       </tuv>
     </tu>
     <tu>
