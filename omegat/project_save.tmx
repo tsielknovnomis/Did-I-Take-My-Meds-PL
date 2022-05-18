@@ -825,16 +825,16 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       <tuv lang="en-GB">
         <seg>Today</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084248Z" creationid="Magda_B" creationdate="20220420T084248Z">
-        <seg>Dzisiaj</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220518T083628Z" creationid="Magda_B" creationdate="20220420T084248Z">
+        <seg>dzisiaj</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-GB">
         <seg>Tomorrow</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084304Z" creationid="Magda_B" creationdate="20220420T084304Z">
-        <seg>Jutro</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220518T083637Z" creationid="Magda_B" creationdate="20220420T084304Z">
+        <seg>jutro</seg>
       </tuv>
     </tu>
     <tu>
@@ -905,8 +905,8 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       <tuv lang="en-GB">
         <seg>Yesterday</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220420T084255Z" creationid="Magda_B" creationdate="20220420T084255Z">
-        <seg>Wczoraj</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220518T083633Z" creationid="Magda_B" creationdate="20220420T084255Z">
+        <seg>wczoraj</seg>
       </tuv>
     </tu>
     <tu>
