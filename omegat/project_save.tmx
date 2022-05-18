@@ -914,9 +914,9 @@ If this is wrong, update the remaining doses by editing the medication</seg>
         <seg>You already took this dose
 I hope you didn't take it again</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085631Z" creationid="Magda_B" creationdate="20220420T084722Z">
-        <seg>Dawka została już przyjęta
-Mam nadzieję, że nie została przyjęta ponownie</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220518T083916Z" creationid="Magda_B" creationdate="20220420T084722Z">
+        <seg>Dawka została już przyjęta.
+Mam nadzieję, że nie została przyjęta ponownie.</seg>
       </tuv>
     </tu>
     <tu>
