@@ -118,14 +118,6 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>An app to manage and track medication doses</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="SvK" changedate="20220512T150804Z" creationid="SvK" creationdate="20220512T150804Z">
-        <seg>k</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>Approximately %1$d day(s), %2$d hour(s), and %3$d minute(s) since last taken dose</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081217Z" creationid="student" creationdate="20220420T081217Z">
