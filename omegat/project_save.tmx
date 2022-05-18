@@ -20,12 +20,12 @@ Repeats every
 %3$d day(s), %4$d week(s),
 %5$d month(s), %6$d year(s)</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="Del" changedate="20220409T062935Z" creationid="Del" creationdate="20220409T062935Z">
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220518T082248Z" creationid="Del" creationdate="20220409T062935Z">
         <seg>%1$s
 Rozpoczyna się %2$s
 Powtarza się co
-%3$d dzień/dni, %4$d tyg.
-%5$d miesiąc(e), %6$d rok/lata</seg>
+%3$d dn., %4$d tyg.
+%5$d mies., %6$d rok/lata</seg>
       </tuv>
     </tu>
     <tu>
