@@ -809,8 +809,8 @@ If this is wrong, update the remaining doses by editing the medication</seg>
       <tuv lang="en-GB">
         <seg>Time for your dose</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="konstancja" changedate="20220420T075622Z" creationid="konstancja" creationdate="20220420T075622Z">
-        <seg>Pora na dawkę</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220518T085400Z" creationid="konstancja" creationdate="20220420T075622Z">
+        <seg>Czas przyjąć lek</seg>
       </tuv>
     </tu>
     <tu>
