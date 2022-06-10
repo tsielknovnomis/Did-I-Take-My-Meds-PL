@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -296,8 +296,8 @@ Usuwanie błędów johannes87 na GitHub</seg>
       <tuv lang="en-GB">
         <seg>Did I Take My Meds?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="48606" changedate="20220427T080607Z" creationid="48606" creationdate="20220420T080314Z">
-        <seg>Leki przyjęte?</seg>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T193802Z" creationid="48606" creationdate="20220420T080314Z">
+        <seg>Aplikacja Leki przyjęte?</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +418,14 @@ Usuwanie błędów johannes87 na GitHub</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085613Z" creationid="Magda_B" creationdate="20220420T084240Z">
         <seg>Dawka przyjęta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>If not, see https://www.gnu.org/licenses.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195116Z" creationid="juliajaroszko" creationdate="20220602T195116Z">
+        <seg>Jeśli tak się nie stało, zobacz https://www.gnu.org/licenses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +702,14 @@ Usuwanie błędów johannes87 na GitHub</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>See the GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T194721Z" creationid="juliajaroszko" creationdate="20220602T194635Z">
+        <seg>Więcej szczegółów można znaleźć w licencji wolnego i otwartego oprogramowania GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Sorry!</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Del" changedate="20220409T062520Z" creationid="Del" creationdate="20220409T062520Z">
@@ -913,6 +929,14 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>You should have received a copy of the GNU General Public License along with this program.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195050Z" creationid="juliajaroszko" creationdate="20220602T194806Z">
+        <seg>Wraz z tą aplikacją powinieneś otrzymać kopię licencji wolnego i otwartego oprogramowania GPL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>You took this already</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T085721Z" creationid="Magda_B" creationdate="20220420T085033Z">
@@ -937,6 +961,14 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>date_picker</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195359Z" creationid="juliajaroszko" creationdate="20220602T195359Z">
+        <seg>selektor dat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>delete</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081249Z" creationid="Magda_B" creationdate="20220420T084855Z">
@@ -949,6 +981,14 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220511T075944Z">
         <seg>pdev.corruptedark.diditakemymeds.fileprovider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>dose_time</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195417Z" creationid="juliajaroszko" creationdate="20220602T195417Z">
+        <seg>czas podania dawki</seg>
       </tuv>
     </tu>
     <tu>
@@ -985,6 +1025,71 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>is a FOSS app to keep track of medications
+Did I Take My Meds?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T185226Z" creationid="juliajaroszko" creationdate="20220601T184612Z">
+        <seg>to wolne i otwarte oprogramowanie pozwalające śledzić przyjmowanie leków
+Leki przyjęte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>is designed to help prevent a user from skipping doses and/or overdosing
+Copyright © 2021 Noah Stanford noahstandingford@gmail.com
+
+Did I Take My Meds?</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T193826Z" creationid="juliajaroszko" creationdate="20220601T185640Z">
+        <seg>ma na celu zapobieganie pomijaniu dawek i/lub przedawkowaniu leku przez użytkownika
+Prawa autorskie zastrzeżone © 2021 Noah Stanford noahstandingford@gmail.com
+
+Aplikacja Leki przyjęte?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195206Z" creationid="juliajaroszko" creationdate="20220602T193754Z">
+        <seg>jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ lub PRZYDATNOŚCI DO OKREŚLONEGO CELU.
+de: wird in der Hoffnung verteilt, dass es nützlich ist, aber OHNE JEGLICHE GARANTIE; auch ohne die implizierte Garantie der HANDELSÜBLICHEN QUALITÄT oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T194640Z" creationid="juliajaroszko" creationdate="20220601T191444Z">
+        <seg>jest wolnym oprogramowaniem: możesz je rozprowadzać i/lub modyfikować zgodnie z warunkami licencji wolnego i otwartego oprogramowania GPL opublikowanej przez Fundacja Wolnego Oprogramowania, w wersji 3 tej Licencji lub (według własnego uznania) w dowolnej późniejszej wersji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>last_version_used</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195255Z" creationid="juliajaroszko" creationdate="20220602T195255Z">
+        <seg>ostatnia używana wersja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>med_id</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T184229Z" creationid="juliajaroszko" creationdate="20220601T184229Z">
+        <seg>znacznik identyfikacyjny leku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>medication_position</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T184031Z" creationid="juliajaroszko" creationdate="20220601T184031Z">
+        <seg>pozycja leków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>playRelease</seg>
       </tuv>
       <tuv lang="pl-PL">
@@ -1001,10 +1106,42 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>schedule_picker</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195330Z" creationid="juliajaroszko" creationdate="20220602T195330Z">
+        <seg>narzędzie do układania harmonogramów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>select a time</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T075732Z" creationid="48606" creationdate="20220420T075732Z">
         <seg>wybierz godzinę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>take_med</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195455Z" creationid="juliajaroszko" creationdate="20220602T195455Z">
+        <seg>weź lek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>time_picker</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T183841Z" creationid="juliajaroszko" creationdate="20220601T183841Z">
+        <seg>selektor czasowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>time_taken</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195449Z" creationid="juliajaroszko" creationdate="20220602T195449Z">
+        <seg>czas trwania</seg>
       </tuv>
     </tu>
     <tu>
@@ -1021,10 +1158,10 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
 
 Did I Take My Meds?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="student" changedate="20220427T082834Z" creationid="student" creationdate="20220427T082834Z">
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T193819Z" creationid="student" creationdate="20220427T082834Z">
         <seg>v%1$s by Noah Stanford (aka CorruptedArk)
 
-Leki przyjęte?</seg>
+Aplikacja Leki przyjęte?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
