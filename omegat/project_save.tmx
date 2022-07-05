@@ -126,6 +126,14 @@ Powtarza się co
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>An app to manage and track medication doses</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140553Z" creationid="juliajaroszko" creationdate="20220705T140553Z">
+        <seg>Aplikacja do zarządzania i śledzenia dawek leków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>Approximately %1$d day(s), %2$d hour(s), and %3$d minute(s) since last taken dose</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="student" changedate="20220420T081217Z" creationid="student" creationdate="20220420T081217Z">
@@ -146,6 +154,14 @@ Powtarza się co
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220427T080814Z" creationid="Magda_B" creationdate="20220420T084909Z">
         <seg>Czy na pewno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
+        <seg>As a part of a medication routine, this app can help prevent overdoses and skipped doses.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140529Z" creationid="juliajaroszko" creationdate="20220705T140529Z">
+        <seg>Jako część codziennej rutyny przyjmowania leków, aplikacja ta może pomóc zapobieganiu przedawkowaniu i pominięciu dawek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -304,8 +320,8 @@ Usuwanie błędów johannes87 na GitHub</seg>
       <tuv lang="en-GB">
         <seg>Did I Take My Meds?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T193802Z" creationid="48606" creationdate="20220420T080314Z">
-        <seg>Aplikacja Leki przyjęte?</seg>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140610Z" creationid="48606" creationdate="20220420T080314Z">
+        <seg>Leki przyjęte?</seg>
       </tuv>
     </tu>
     <tu>
