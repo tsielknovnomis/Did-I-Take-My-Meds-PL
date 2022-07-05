@@ -1001,6 +1001,14 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>helps keep track of when to take medications.</seg>
+      </tuv>
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140105Z" creationid="juliajaroszko" creationdate="20220705T140105Z">
+        <seg>pomaga śledzić, kiedy przyjąć leki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>https://github.com/CorruptedArk/did-i-take-my-meds</seg>
       </tuv>
       <tuv lang="pl-PL">
@@ -1051,9 +1059,9 @@ Aplikacja Leki przyjęte?</seg>
       <tuv lang="en-GB">
         <seg>is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195206Z" creationid="juliajaroszko" creationdate="20220602T193754Z">
+      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140012Z" creationid="juliajaroszko" creationdate="20220602T193754Z">
         <seg>jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ lub PRZYDATNOŚCI DO OKREŚLONEGO CELU.
-de: wird in der Hoffnung verteilt, dass es nützlich ist, aber OHNE JEGLICHE GARANTIE; auch ohne die implizierte Garantie der HANDELSÜBLICHEN QUALITÄT oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. </seg>
+de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ lub PRZYDATNOŚCI DO OKREŚLONEGO CELU.</seg>
       </tuv>
     </tu>
     <tu>
