@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c32062534" segtype="sentence" srclang="en-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-GB"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -488,8 +488,8 @@ Usuwanie błędów johannes87 na GitHub</seg>
       <tuv lang="en-GB">
         <seg>It is designed to help prevent a user from skipping doses and/or overdosing.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140151Z" creationid="juliajaroszko" creationdate="20220705T140151Z">
-        <seg>Została zaprojektowana tak, aby pomóc zapobieganiu pominięciu dawek i/lub przedawkowaniu przez użytkownika.</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220706T145140Z" creationid="juliajaroszko" creationdate="20220705T140151Z">
+        <seg>Została zaprojektowana tak, aby pomóc zapobieganiu pominięciu dawek i przedawkowaniu przez użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,6 +1033,14 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
+        <seg>did_i_take_my_meds</seg>
+      </tuv>
+      <tuv lang="pl-PL">
+        <seg>did_i_take_my_meds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-GB">
         <seg>dose_time</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195417Z" creationid="juliajaroszko" creationdate="20220602T195417Z">
@@ -1096,11 +1104,11 @@ Copyright © 2021 Noah Stanford noahstandingford@gmail.com
 
 Did I Take My Meds?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T193826Z" creationid="juliajaroszko" creationdate="20220601T185640Z">
-        <seg>ma na celu zapobieganie pomijaniu dawek i/lub przedawkowaniu leku przez użytkownika
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220706T145348Z" creationid="juliajaroszko" creationdate="20220601T185640Z">
+        <seg>ma na celu zapobieganie pomijaniu dawek i przedawkowaniu leku przez użytkownika
 Prawa autorskie zastrzeżone © 2021 Noah Stanford noahstandingford@gmail.com
 
-Aplikacja Leki przyjęte?</seg>
+Leki przyjęte?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,22 +1134,6 @@ de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLW
       </tuv>
       <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195255Z" creationid="juliajaroszko" creationdate="20220602T195255Z">
         <seg>ostatnia używana wersja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>med_id</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T184229Z" creationid="juliajaroszko" creationdate="20220601T184229Z">
-        <seg>znacznik identyfikacyjny leku</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>medication_position</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T184031Z" creationid="juliajaroszko" creationdate="20220601T184031Z">
-        <seg>pozycja leków</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,14 +1178,6 @@ de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLW
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>time_picker</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220601T183841Z" creationid="juliajaroszko" creationdate="20220601T183841Z">
-        <seg>selektor czasowy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>time_taken</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195449Z" creationid="juliajaroszko" creationdate="20220602T195449Z">
@@ -1214,10 +1198,10 @@ de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLW
 
 Did I Take My Meds?</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T193819Z" creationid="student" creationdate="20220427T082834Z">
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220706T145329Z" creationid="student" creationdate="20220427T082834Z">
         <seg>v%1$s by Noah Stanford (aka CorruptedArk)
 
-Aplikacja Leki przyjęte?</seg>
+Leki przyjęte?</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
