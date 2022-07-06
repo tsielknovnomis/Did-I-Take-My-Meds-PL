@@ -971,8 +971,8 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
       <tuv lang="en-GB">
         <seg>You should have received a copy of the GNU General Public License along with this program.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195050Z" creationid="juliajaroszko" creationdate="20220602T194806Z">
-        <seg>Wraz z tą aplikacją powinieneś otrzymać kopię licencji wolnego i otwartego oprogramowania GPL</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220706T145843Z" creationid="juliajaroszko" creationdate="20220602T194806Z">
+        <seg>Wraz z tą aplikacją powinieneś otrzymać kopię licencji wolnego i otwartego oprogramowania GPL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1009,14 +1009,6 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>date_picker</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195359Z" creationid="juliajaroszko" creationdate="20220602T195359Z">
-        <seg>selektor dat</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>delete</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="Magda_B" changedate="20220425T081249Z" creationid="Magda_B" creationdate="20220420T084855Z">
@@ -1037,14 +1029,6 @@ Mam nadzieję, że nie została przyjęta ponownie.</seg>
       </tuv>
       <tuv lang="pl-PL">
         <seg>did_i_take_my_meds</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>dose_time</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195417Z" creationid="juliajaroszko" creationdate="20220602T195417Z">
-        <seg>czas podania dawki</seg>
       </tuv>
     </tu>
     <tu>
@@ -1115,9 +1099,8 @@ Leki przyjęte?</seg>
       <tuv lang="en-GB">
         <seg>is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220705T140012Z" creationid="juliajaroszko" creationdate="20220602T193754Z">
-        <seg>jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ lub PRZYDATNOŚCI DO OKREŚLONEGO CELU.
-de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ lub PRZYDATNOŚCI DO OKREŚLONEGO CELU.</seg>
+      <tuv lang="pl-PL" changeid="SvK" changedate="20220706T145949Z" creationid="juliajaroszko" creationdate="20220602T193754Z">
+        <seg>jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLWIEK GWARANCJI; nawet bez domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ lub PRZYDATNOŚCI DO OKREŚLONEGO CELU.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1126,14 +1109,6 @@ de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLW
       </tuv>
       <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T194640Z" creationid="juliajaroszko" creationdate="20220601T191444Z">
         <seg>jest wolnym oprogramowaniem: możesz je rozprowadzać i/lub modyfikować zgodnie z warunkami licencji wolnego i otwartego oprogramowania GPL opublikowanej przez Fundacja Wolnego Oprogramowania, w wersji 3 tej Licencji lub (według własnego uznania) w dowolnej późniejszej wersji.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>last_version_used</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195255Z" creationid="juliajaroszko" creationdate="20220602T195255Z">
-        <seg>ostatnia używana wersja</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,34 +1129,10 @@ de: jest rozpowszechniana z nadzieją, że będzie przydatna, ale BEZ JAKIEJKOLW
     </tu>
     <tu>
       <tuv lang="en-GB">
-        <seg>schedule_picker</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195330Z" creationid="juliajaroszko" creationdate="20220602T195330Z">
-        <seg>narzędzie do układania harmonogramów</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
         <seg>select a time</seg>
       </tuv>
       <tuv lang="pl-PL" changeid="48606" changedate="20220420T075732Z" creationid="48606" creationdate="20220420T075732Z">
         <seg>wybierz godzinę</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>take_med</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195455Z" creationid="juliajaroszko" creationdate="20220602T195455Z">
-        <seg>weź lek</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-GB">
-        <seg>time_taken</seg>
-      </tuv>
-      <tuv lang="pl-PL" changeid="juliajaroszko" changedate="20220602T195449Z" creationid="juliajaroszko" creationdate="20220602T195449Z">
-        <seg>czas trwania</seg>
       </tuv>
     </tu>
     <tu>
